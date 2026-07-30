@@ -1,0 +1,33 @@
+# Changelog
+
+All notable changes to this project are documented here.
+
+---
+
+## Version 2.0 (Planned)
+
+### Added
+
+- Better UI
+- Improved Animations
+- SEO Optimization
+- Gallery Improvements
+- Better Performance
+- Accessibility Improvements
+- GitHub Deployment Guide
+
+---
+
+## Version 1.0
+
+### Initial Release
+
+- Home Page
+- About Page
+- Gallery
+- News
+- Downloads
+- Contact
+- Responsive Design
+- Bootstrap 5
+- JavaScript Features
