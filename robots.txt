@@ -4,4 +4,4 @@ Allow: /
 
 Sitemap:
 
-https://YOUR_USERNAME.github.io/forest-association-website/sitemap.xml
+https://kabikesu.github.io/nfalumbini.org.np/sitemap.xml
