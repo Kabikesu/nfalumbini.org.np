@@ -1,8 +1,0 @@
-images/team/
-
-chairman.jpg
-vice-chairman.jpg
-secretary.jpg
-treasurer.jpg
-member1.jpg
-member2.jpg
