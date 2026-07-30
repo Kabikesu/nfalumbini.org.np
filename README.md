@@ -30,7 +30,7 @@ The website includes:
 GitHub Pages:
 
 ```
-https://Kabikesu.github.io/forest-association-website/
+https://kabikesu.github.io/nfalumbini.org.np/index.html
 ```
 **Kabikesu** 
 
@@ -198,7 +198,7 @@ Folder: /root
 Your website will be available at:
 
 ```
-https://Kabikesu.github.io/forest-association-website/
+https://kabikesu.github.io/nfalumbini.org.np/index.html
 ```
 
 ---
